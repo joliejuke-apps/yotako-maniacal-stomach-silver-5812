@@ -1,0 +1,1240 @@
+@media (max-width:768px) {
+  .iphonexhomerow0 {
+    display: flex;
+    margin-left: 12px;
+    margin-top: 54px;
+    width: 187px;
+    height: 162px
+  }
+  .style15 {
+    background-image: linear-gradient(180deg,#fff 0,#5240a1 100%);
+    opacity: .05000000074505806;
+    margin-left: 0;
+    margin-top: 58px;
+    width: 0;
+    height: 0
+  }
+  .style10 {
+    background-image: url(https://designresources.assets.yotako.io/e7upyk2u6jopm5byr.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 16px;
+    width: 171px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style28 {
+    background-color: #fff;
+    opacity: .20000000298023224;
+    margin-left: 331px;
+    margin-top: 78px;
+    width: 0;
+    height: 0
+  }
+  .style24,
+  .style27,
+  .style29 {
+    background-color: #7045af;
+    margin-left: 283px;
+    margin-top: 16px;
+    width: 0;
+    height: 0
+  }
+  .style27,
+  .style29 {
+    background-color: #fff;
+    opacity: .20000000298023224;
+    margin-left: 288px
+  }
+  .style29 {
+    margin-left: 336px;
+    margin-top: 45px
+  }
+  .iphonexhomerow5 {
+    display: flex;
+    margin-left: 0;
+    margin-top: 1px;
+    width: 231px;
+    height: 0;
+    align-items: stretch
+  }
+  .style13,
+  .style16,
+  .style17,
+  .style18 {
+    background-color: #182952;
+    opacity: .10000000149011612;
+    margin-left: 0;
+    width: 0
+  }
+  .style16,
+  .style17,
+  .style18 {
+    margin-left: 231px
+  }
+  .style16,
+  .style17 {
+    opacity: .20000000298023224;
+    margin-left: 315px;
+    margin-top: 8px;
+    height: 0
+  }
+  .style17 {
+    opacity: .10000000149011612;
+    margin-left: 288px;
+    margin-top: 25px
+  }
+  .style11,
+  .style12 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: .9375em
+  }
+  .style11 {
+    font-weight: 600;
+    margin-left: 76px;
+    margin-top: 9px;
+    height: 21px
+  }
+  .style12 {
+    margin-left: 27px;
+    margin-top: 10px;
+    height: 56px
+  }
+  .style35 {
+    background-color: #fff;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    margin-left: 147px;
+    margin-top: 12px;
+    width: 8px;
+    height: 8px
+  }
+  .style0 {
+    background-image: linear-gradient(-45.75800752333763deg,#e00070 0,#5f52ff 100%);
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    display: flex;
+    margin-left: 44px;
+    margin-top: 11px;
+    width: 275px;
+    height: 53px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style1 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 1.375em;
+    font-weight: 600;
+    height: 32px
+  }
+  .style2 {
+    background-color: #000;
+    border-left: 2px solid #fff;
+    border-right: 2px solid #fff;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    opacity: .30000001192092896;
+    display: flex;
+    margin-left: 43px;
+    margin-top: 11px;
+    width: 275px;
+    height: 53px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style3 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 1.375em;
+    font-weight: 600;
+    height: 32px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .iphonexsignuprow0,
+  .style47 {
+    position: relative;
+    display: flex;
+    margin-left: 28px;
+    margin-top: 39px;
+    width: 297px;
+    height: 162px
+  }
+  .style47 {
+    background-image: url(https://designresources.assets.yotako.io/e7upyk2u6jopm5ddn.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    margin-top: 15px;
+    width: 171px;
+    flex-direction: column;
+    flex-shrink: 0
+  }
+  .style63 {
+    background-color: #6c55ff;
+    margin-left: 79px;
+    margin-top: 99px;
+    width: 0;
+    height: 0
+  }
+  .style38 {
+    font-size: 1.375em;
+    font-weight: 600;
+    margin-left: 51px;
+    height: 32px;
+    flex-shrink: 0
+  }
+  .style37,
+  .style38,
+  .style53 {
+    color: #fff;
+    font-family: calibre,serif
+  }
+  .style37 {
+    font-weight: 600;
+    font-size: 2.0625em;
+    margin-left: 46px;
+    margin-top: 31px;
+    height: 98px
+  }
+  .style53 {
+    font-size: 1.375em;
+    margin-left: 87px;
+    margin-top: 20px;
+    height: 32px
+  }
+  .style52 {
+    background-color: #fff;
+    opacity: .05000000074505806;
+    margin-left: 50px;
+    margin-top: 12px;
+    width: 275px;
+    height: 2px
+  }
+  .style49 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 1.375em;
+    margin-left: 87px;
+    margin-top: 30px;
+    height: 32px
+  }
+  .style39,
+  .style48 {
+    margin-left: 50px;
+    width: 275px
+  }
+  .style48 {
+    background-color: #fff;
+    opacity: .05000000074505806;
+    margin-top: 12px;
+    height: 2px
+  }
+  .style39 {
+    background-image: linear-gradient(-45.75800752333763deg,#e00070 0,#5f52ff 100%);
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    display: flex;
+    margin-top: 30px;
+    height: 53px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style40 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 1.375em;
+    font-weight: 600;
+    height: 32px
+  }
+  .iphonexsignuprow7 {
+    display: flex;
+    margin-left: 58px;
+    margin-top: 24px;
+    width: 267px;
+    height: 52px;
+    align-items: center
+  }
+  .style55 {
+    color: rgba(255,255,255,.4965110123157501);
+    font-family: calibre,serif;
+    font-size: 1.0625em;
+    margin-left: 0;
+    height: 24px
+  }
+  .style56,
+  .style58 {
+    background-color: #e00070;
+    border-left: 2px solid #fff;
+    border-right: 2px solid #fff;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    opacity: .30000001192092896;
+    margin-left: 24px;
+    width: 52px;
+    height: 100%
+  }
+  .style58 {
+    margin-left: 16px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .iphonexhomerow0 {
+    display: flex;
+    margin-left: 25px;
+    margin-top: 111px;
+    width: 383px;
+    height: 332px
+  }
+  .style15 {
+    background-image: linear-gradient(180deg,#fff 0,#5240a1 100%);
+    opacity: .05000000074505806;
+    margin-left: 0;
+    margin-top: 119px;
+    width: 0;
+    height: 0
+  }
+  .style10 {
+    background-image: url(https://designresources.assets.yotako.io/e7upyk2u6jopm5byr.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 33px;
+    width: 350px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style28 {
+    background-color: #fff;
+    opacity: .20000000298023224;
+    margin-left: 678px;
+    margin-top: 160px;
+    width: 0;
+    height: 0
+  }
+  .style24,
+  .style27,
+  .style29 {
+    background-color: #7045af;
+    margin-left: 580px;
+    margin-top: 33px;
+    width: 0;
+    height: 0
+  }
+  .style27,
+  .style29 {
+    background-color: #fff;
+    opacity: .20000000298023224;
+    margin-left: 590px
+  }
+  .style29 {
+    margin-left: 688px;
+    margin-top: 92px
+  }
+  .iphonexhomerow5 {
+    display: flex;
+    margin-left: 0;
+    margin-top: 2px;
+    width: 473px;
+    height: 0;
+    align-items: stretch
+  }
+  .style13,
+  .style16,
+  .style17,
+  .style18 {
+    background-color: #182952;
+    opacity: .10000000149011612;
+    margin-left: 0;
+    width: 0
+  }
+  .style16,
+  .style17,
+  .style18 {
+    margin-left: 473px
+  }
+  .style16,
+  .style17 {
+    opacity: .20000000298023224;
+    margin-left: 645px;
+    margin-top: 16px;
+    height: 0
+  }
+  .style17 {
+    opacity: .10000000149011612;
+    margin-left: 590px;
+    margin-top: 51px
+  }
+  .style11,
+  .style12 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 1.92em
+  }
+  .style11 {
+    font-weight: 600;
+    margin-left: 156px;
+    margin-top: 18px;
+    height: 43px
+  }
+  .style12 {
+    margin-left: 55px;
+    margin-top: 20px;
+    height: 115px
+  }
+  .style35 {
+    background-color: #fff;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    margin-left: 301px;
+    margin-top: 25px;
+    width: 16px;
+    height: 16px
+  }
+  .style0 {
+    background-image: linear-gradient(-45.75800752333763deg,#e00070 0,#5f52ff 100%);
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    display: flex;
+    margin-left: 90px;
+    margin-top: 23px;
+    width: 563px;
+    height: 109px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style1 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 2.816em;
+    font-weight: 600;
+    height: 66px
+  }
+  .style2 {
+    background-color: #000;
+    border-left: 2px solid #fff;
+    border-right: 2px solid #fff;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    opacity: .30000001192092896;
+    display: flex;
+    margin-left: 88px;
+    margin-top: 23px;
+    width: 563px;
+    height: 109px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style3 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 2.816em;
+    font-weight: 600;
+    height: 66px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .iphonexsignuprow0,
+  .style47 {
+    position: relative;
+    display: flex;
+    margin-left: 57px;
+    margin-top: 80px;
+    width: 608px;
+    height: 332px
+  }
+  .style47 {
+    background-image: url(https://designresources.assets.yotako.io/e7upyk2u6jopm5ddn.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    margin-top: 31px;
+    width: 350px;
+    flex-direction: column;
+    flex-shrink: 0
+  }
+  .style63 {
+    background-color: #6c55ff;
+    margin-left: 162px;
+    margin-top: 203px;
+    width: 0;
+    height: 0
+  }
+  .style38 {
+    font-size: 2.816em;
+    font-weight: 600;
+    margin-left: 104px;
+    height: 66px;
+    flex-shrink: 0
+  }
+  .style37,
+  .style38,
+  .style53 {
+    color: #fff;
+    font-family: calibre,serif
+  }
+  .style37 {
+    font-weight: 600;
+    font-size: 4.224em;
+    margin-left: 94px;
+    margin-top: 63px;
+    height: 201px
+  }
+  .style53 {
+    font-size: 2.816em;
+    margin-left: 178px;
+    margin-top: 41px;
+    height: 66px
+  }
+  .style52 {
+    background-color: #fff;
+    opacity: .05000000074505806;
+    margin-left: 102px;
+    margin-top: 25px;
+    width: 563px;
+    height: 4px
+  }
+  .style49 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 2.816em;
+    margin-left: 178px;
+    margin-top: 61px;
+    height: 66px
+  }
+  .style39,
+  .style48 {
+    margin-left: 102px;
+    width: 563px
+  }
+  .style48 {
+    background-color: #fff;
+    opacity: .05000000074505806;
+    margin-top: 25px;
+    height: 4px
+  }
+  .style39 {
+    background-image: linear-gradient(-45.75800752333763deg,#e00070 0,#5f52ff 100%);
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    display: flex;
+    margin-top: 61px;
+    height: 109px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style40 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 2.816em;
+    font-weight: 600;
+    height: 66px
+  }
+  .iphonexsignuprow7 {
+    display: flex;
+    margin-left: 119px;
+    margin-top: 49px;
+    width: 547px;
+    height: 106px;
+    align-items: center
+  }
+  .style55 {
+    color: rgba(255,255,255,.4965110123157501);
+    font-family: calibre,serif;
+    font-size: 2.176em;
+    margin-left: 0;
+    height: 49px
+  }
+  .style56,
+  .style58 {
+    background-color: #e00070;
+    border-left: 2px solid #fff;
+    border-right: 2px solid #fff;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    opacity: .30000001192092896;
+    margin-left: 49px;
+    width: 106px;
+    height: 100%
+  }
+  .style58 {
+    margin-left: 33px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .iphonexhomerow0 {
+    display: flex;
+    margin-left: 29px;
+    margin-top: 132px;
+    width: 459px;
+    height: 397px
+  }
+  .style15 {
+    background-image: linear-gradient(180deg,#fff 0,#5240a1 100%);
+    opacity: .05000000074505806;
+    margin-left: 0;
+    margin-top: 142px;
+    width: 0;
+    height: 0
+  }
+  .style10 {
+    background-image: url(https://designresources.assets.yotako.io/e7upyk2u6jopm5byr.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 39px;
+    width: 420px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style28 {
+    background-color: #fff;
+    opacity: .20000000298023224;
+    margin-left: 812px;
+    margin-top: 191px;
+    width: 0;
+    height: 0
+  }
+  .style24,
+  .style27,
+  .style29 {
+    background-color: #7045af;
+    margin-left: 694px;
+    margin-top: 39px;
+    width: 0;
+    height: 0
+  }
+  .style27,
+  .style29 {
+    background-color: #fff;
+    opacity: .20000000298023224;
+    margin-left: 707px
+  }
+  .style29 {
+    margin-left: 824px;
+    margin-top: 110px
+  }
+  .iphonexhomerow5 {
+    display: flex;
+    margin-left: 0;
+    margin-top: 2px;
+    width: 567px;
+    height: 0;
+    align-items: stretch
+  }
+  .style13,
+  .style16,
+  .style17,
+  .style18 {
+    background-color: #182952;
+    opacity: .10000000149011612;
+    margin-left: 0;
+    width: 0
+  }
+  .style16,
+  .style17,
+  .style18 {
+    margin-left: 567px
+  }
+  .style16,
+  .style17 {
+    opacity: .20000000298023224;
+    margin-left: 773px;
+    margin-top: 20px;
+    height: 0
+  }
+  .style17 {
+    opacity: .10000000149011612;
+    margin-left: 707px;
+    margin-top: 61px
+  }
+  .style11,
+  .style12 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 2.3em
+  }
+  .style11 {
+    font-weight: 600;
+    margin-left: 186px;
+    margin-top: 22px;
+    height: 52px
+  }
+  .style12 {
+    margin-left: 66px;
+    margin-top: 25px;
+    height: 137px
+  }
+  .style35 {
+    background-color: #fff;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    margin-left: 361px;
+    margin-top: 29px;
+    width: 20px;
+    height: 20px
+  }
+  .style0 {
+    background-image: linear-gradient(-45.75800752333763deg,#e00070 0,#5f52ff 100%);
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    display: flex;
+    margin-left: 108px;
+    margin-top: 27px;
+    width: 675px;
+    height: 130px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style1 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 3.373333333333333em;
+    font-weight: 600;
+    height: 79px
+  }
+  .style2 {
+    background-color: #000;
+    border-left: 2px solid #fff;
+    border-right: 2px solid #fff;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    opacity: .30000001192092896;
+    display: flex;
+    margin-left: 105px;
+    margin-top: 27px;
+    width: 675px;
+    height: 130px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style3 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 3.373333333333333em;
+    font-weight: 600;
+    height: 79px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .iphonexsignuprow0,
+  .style47 {
+    position: relative;
+    display: flex;
+    margin-left: 69px;
+    margin-top: 96px;
+    width: 729px;
+    height: 397px
+  }
+  .style47 {
+    background-image: url(https://designresources.assets.yotako.io/e7upyk2u6jopm5ddn.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    margin-top: 37px;
+    width: 420px;
+    flex-direction: column;
+    flex-shrink: 0
+  }
+  .style63 {
+    background-color: #6c55ff;
+    margin-left: 194px;
+    margin-top: 243px;
+    width: 0;
+    height: 0
+  }
+  .style38 {
+    font-size: 3.373333333333333em;
+    font-weight: 600;
+    margin-left: 125px;
+    height: 79px;
+    flex-shrink: 0
+  }
+  .style37,
+  .style38,
+  .style53 {
+    color: #fff;
+    font-family: calibre,serif
+  }
+  .style37 {
+    font-weight: 600;
+    font-size: 5.06em;
+    margin-left: 113px;
+    margin-top: 76px;
+    height: 240px
+  }
+  .style53 {
+    font-size: 3.373333333333333em;
+    margin-left: 213px;
+    margin-top: 49px;
+    height: 79px
+  }
+  .style52 {
+    background-color: #fff;
+    opacity: .05000000074505806;
+    margin-left: 123px;
+    margin-top: 29px;
+    width: 675px;
+    height: 5px
+  }
+  .style49 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 3.373333333333333em;
+    margin-left: 213px;
+    margin-top: 74px;
+    height: 79px
+  }
+  .style39,
+  .style48 {
+    margin-left: 123px;
+    width: 675px
+  }
+  .style48 {
+    background-color: #fff;
+    opacity: .05000000074505806;
+    margin-top: 29px;
+    height: 5px
+  }
+  .style39 {
+    background-image: linear-gradient(-45.75800752333763deg,#e00070 0,#5f52ff 100%);
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    display: flex;
+    margin-top: 74px;
+    height: 130px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style40 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 3.373333333333333em;
+    font-weight: 600;
+    height: 79px
+  }
+  .iphonexsignuprow7 {
+    display: flex;
+    margin-left: 142px;
+    margin-top: 59px;
+    width: 655px;
+    height: 128px;
+    align-items: center
+  }
+  .style55 {
+    color: rgba(255,255,255,.4965110123157501);
+    font-family: calibre,serif;
+    font-size: 2.6066666666666665em;
+    margin-left: 0;
+    height: 59px
+  }
+  .style56,
+  .style58 {
+    background-color: #e00070;
+    border-left: 2px solid #fff;
+    border-right: 2px solid #fff;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    opacity: .30000001192092896;
+    margin-left: 59px;
+    width: 128px;
+    height: 100%
+  }
+  .style58 {
+    margin-left: 39px
+  }
+}
+@media (min-width:1200px) {
+  .iphonexhomerow0 {
+    display: flex;
+    margin-left: 38px;
+    margin-top: 173px;
+    width: 598px;
+    height: 518px
+  }
+  .style15 {
+    background-image: linear-gradient(180deg,#fff 0,#5240a1 100%);
+    opacity: .05000000074505806;
+    margin-left: 0;
+    margin-top: 186px;
+    width: 0;
+    height: 0
+  }
+  .style10 {
+    background-image: url(https://designresources.assets.yotako.io/e7upyk2u6jopm5byr.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 51px;
+    width: 547px;
+    height: 100%;
+    align-self: stretch
+  }
+  .style28 {
+    background-color: #fff;
+    opacity: .20000000298023224;
+    margin-left: 1059px;
+    margin-top: 250px;
+    width: 0;
+    height: 0
+  }
+  .style24,
+  .style27,
+  .style29 {
+    background-color: #7045af;
+    margin-left: 906px;
+    margin-top: 51px;
+    width: 0;
+    height: 0
+  }
+  .style27,
+  .style29 {
+    background-color: #fff;
+    opacity: .20000000298023224;
+    margin-left: 922px
+  }
+  .style29 {
+    margin-left: 1075px;
+    margin-top: 144px
+  }
+  .iphonexhomerow5 {
+    display: flex;
+    margin-left: 0;
+    margin-top: 3px;
+    width: 739px;
+    height: 0;
+    align-items: stretch
+  }
+  .style13,
+  .style16,
+  .style17,
+  .style18 {
+    background-color: #182952;
+    opacity: .10000000149011612;
+    margin-left: 0;
+    width: 0
+  }
+  .style16,
+  .style17,
+  .style18 {
+    margin-left: 739px
+  }
+  .style16,
+  .style17 {
+    opacity: .20000000298023224;
+    margin-left: 1008px;
+    margin-top: 26px;
+    height: 0
+  }
+  .style17 {
+    opacity: .10000000149011612;
+    margin-left: 922px;
+    margin-top: 80px
+  }
+  .style11,
+  .style12 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 3em
+  }
+  .style11 {
+    font-weight: 600;
+    margin-left: 243px;
+    margin-top: 29px;
+    height: 67px
+  }
+  .style12 {
+    margin-left: 86px;
+    margin-top: 32px;
+    height: 179px
+  }
+  .style35 {
+    background-color: #fff;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    margin-left: 470px;
+    margin-top: 38px;
+    width: 26px;
+    height: 26px
+  }
+  .style0 {
+    background-image: linear-gradient(-45.75800752333763deg,#e00070 0,#5f52ff 100%);
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    display: flex;
+    margin-left: 141px;
+    margin-top: 35px;
+    width: 880px;
+    height: 170px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style1 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 4.4em;
+    font-weight: 600;
+    height: 102px
+  }
+  .style2 {
+    background-color: #000;
+    border-left: 2px solid #fff;
+    border-right: 2px solid #fff;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    opacity: .30000001192092896;
+    display: flex;
+    margin-left: 138px;
+    margin-top: 35px;
+    width: 880px;
+    height: 170px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style3 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 4.4em;
+    font-weight: 600;
+    height: 102px
+  }
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .iphonexsignuprow0,
+  .style47 {
+    position: relative;
+    display: flex;
+    margin-left: 90px;
+    margin-top: 125px;
+    width: 950px;
+    height: 518px
+  }
+  .style47 {
+    background-image: url(https://designresources.assets.yotako.io/e7upyk2u6jopm5ddn.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x: center;
+    background-position-y: center;
+    margin-left: 0;
+    margin-top: 48px;
+    width: 547px;
+    flex-direction: column;
+    flex-shrink: 0
+  }
+  .style63 {
+    background-color: #6c55ff;
+    margin-left: 253px;
+    margin-top: 317px;
+    width: 0;
+    height: 0
+  }
+  .style38 {
+    font-size: 4.4em;
+    font-weight: 600;
+    margin-left: 163px;
+    height: 102px;
+    flex-shrink: 0
+  }
+  .style37,
+  .style38,
+  .style53 {
+    color: #fff;
+    font-family: calibre,serif
+  }
+  .style37 {
+    font-weight: 600;
+    font-size: 6.6000000000000005em;
+    margin-left: 147px;
+    margin-top: 99px;
+    height: 314px
+  }
+  .style53 {
+    font-size: 4.4em;
+    margin-left: 278px;
+    margin-top: 64px;
+    height: 102px
+  }
+  .style52 {
+    background-color: #fff;
+    opacity: .05000000074505806;
+    margin-left: 160px;
+    margin-top: 38px;
+    width: 880px;
+    height: 6px
+  }
+  .style49 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 4.4em;
+    margin-left: 278px;
+    margin-top: 96px;
+    height: 102px
+  }
+  .style39,
+  .style48 {
+    margin-left: 160px;
+    width: 880px
+  }
+  .style48 {
+    background-color: #fff;
+    opacity: .05000000074505806;
+    margin-top: 38px;
+    height: 6px
+  }
+  .style39 {
+    background-image: linear-gradient(-45.75800752333763deg,#e00070 0,#5f52ff 100%);
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    display: flex;
+    margin-top: 96px;
+    height: 170px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style40 {
+    color: #fff;
+    font-family: calibre,serif;
+    font-size: 4.4em;
+    font-weight: 600;
+    height: 102px
+  }
+  .iphonexsignuprow7 {
+    display: flex;
+    margin-left: 186px;
+    margin-top: 77px;
+    width: 854px;
+    height: 166px;
+    align-items: center
+  }
+  .style55 {
+    color: rgba(255,255,255,.4965110123157501);
+    font-family: calibre,serif;
+    font-size: 3.4000000000000004em;
+    margin-left: 0;
+    height: 77px
+  }
+  .style56,
+  .style58 {
+    background-color: #e00070;
+    border-left: 2px solid #fff;
+    border-right: 2px solid #fff;
+    border-top: 2px solid #fff;
+    border-bottom: 2px solid #fff;
+    box-shadow: 0 15px 10px 1px rgba(0,0,0,.2);
+    border-top-left-radius: 61px;
+    border-top-right-radius: 61px;
+    border-bottom-left-radius: 61px;
+    border-bottom-right-radius: 61px;
+    opacity: .30000001192092896;
+    margin-left: 77px;
+    width: 166px;
+    height: 100%
+  }
+  .style58 {
+    margin-left: 51px
+  }
+}
